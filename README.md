@@ -1,18 +1,25 @@
 # BMEN 6367: Presentation — Team Venus
 
-<img src="Resources/venus.jpg" alt="Venus" width="250" align="right" style="margin-left: 20px; margin-bottom: 15px;">
+<table>
+<tr>
+<td valign="top">
 
-Repository for collaborative work, asset sharing, slide decks, and progress tracking for **Group Venus** in **BMEN 6367: AI in Biomedical Engineering**.
+Repository for collaborative work, asset sharing, slide decks, and progress tracking for **Group Venus** in **BMEN 6367: AI in Biomedical Engineering**[cite: 2].
 
-## 📌 Overview
+### 📌 Overview
 
 This repository serves as a centralized hub for:
-- Tracking project milestones, action items, and presentation deadlines.
-- Version-controlling presentation slide drafts, speaker notes, and scripts.
-- Archiving research papers, source literature, and reference materials.
-- Hosting code, model checkpoints, data processing pipelines, and figures used to generate presentation visuals.
+* Tracking project milestones, action items, and presentation deadlines[cite: 2].
+* Version-controlling presentation slide drafts, speaker notes, and scripts[cite: 2].
+* Archiving research papers, source literature, and reference materials[cite: 2].
+* Hosting code, model checkpoints, data processing pipelines, and figures used to generate presentation visuals[cite: 2].
 
-<br clear="both"/>
+</td>
+<td valign="top" width="260">
+  <img src="Resources/venus.jpg" alt="Venus" width="250">
+</td>
+</tr>
+</table>
 
 ---
 
