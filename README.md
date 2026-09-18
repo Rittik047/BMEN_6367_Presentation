@@ -1,5 +1,6 @@
 # BMEN6367 Presentation: Group Venus
-![](Resources/venus.jpg)
+<img src="images/screenshot.png" alt="" width="250">
+
 
 
 Presentation and relevant informations
