@@ -1,5 +1,5 @@
 # BMEN6367 Presentation: Group Venus
-<img src="images/screenshot.png" alt="" width="250">
+<img src="Resources/venus.jpg" alt="" width="250">
 
 
 
