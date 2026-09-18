@@ -28,7 +28,7 @@ This repository serves as a centralized hub for:
 | Name | Role / Focus Area | Contact |
 | :--- | :--- | :--- |
 | **Rittik Patra** | Project Coordination & Architecture / ML Pipeline | [GitHub](https://github.com/Rittik047) |
-| **Fatima Rizvi** | Literature Review / Clinical Applications | *[Email/GitHub]* |
+| **Fatima Rizvi** | Literature Review / Clinical Applications | [GitHub](https://github.com/fzr200000) |
 | **Bhargavi Sarangapani** | Model Evaluation / Slide Design | *[Email/GitHub]* |
 
 ---
