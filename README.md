@@ -38,10 +38,6 @@ This repository serves as a centralized hub for:
 ```text
 BMEN_6367_Presentation_Venus/
 ├── README.md                   # Project overview, directory layout, and team guidelines
-├── docs/                       # Project documentation, guidelines, and reference files
-│   ├── presentation_outline.md # Topic outline, narrative flow, and slide breakdown
-│   ├── references.bib          # Academic citations and paper bibliographies
-│   └── meeting_notes/          # Internal group meeting logs and action items
 ├── presentation/               # Slide decks, handouts, and presentation assets
 │   ├── slides/                 # .pptx, .pdf, or Keynote slide versions
 │   └── scripts/                # Speaker notes, timing breakdowns, and Q&A prep
