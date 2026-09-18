@@ -1,7 +1,7 @@
 # BMEN 6367: Presentation — Team Venus
 
 Repository for collaborative work, asset sharing, slide decks, and progress tracking for **Group Venus** in **BMEN 6367: AI in Biomedical Engineering**.
-<img src="Resources/venus.jpg" alt="" width="250">
+<img src="Resources/venus.jpg" alt="" width="250" align="right">
 ## 📌 Overview
 
 This repository serves as a centralized hub for:
