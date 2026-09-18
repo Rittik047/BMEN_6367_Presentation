@@ -1,7 +1,9 @@
 # BMEN 6367: Presentation — Team Venus
 
+<img src="Resources/venus.jpg" alt="Venus" width="250" align="right" style="margin-left: 20px; margin-bottom: 15px;">
+
 Repository for collaborative work, asset sharing, slide decks, and progress tracking for **Group Venus** in **BMEN 6367: AI in Biomedical Engineering**.
-<img src="Resources/venus.jpg" alt="" width="250" align="right">
+
 ## 📌 Overview
 
 This repository serves as a centralized hub for:
@@ -10,18 +12,17 @@ This repository serves as a centralized hub for:
 - Archiving research papers, source literature, and reference materials.
 - Hosting code, model checkpoints, data processing pipelines, and figures used to generate presentation visuals.
 
+<br clear="both"/>
+
 ---
 
 ## 👥 Team Members (Group Venus)
-Rittik Patra
-Fatima Rizvi
-Bhargavi Sarangapani
 
 | Name | Role / Focus Area | Contact |
 | :--- | :--- | :--- |
 | **Rittik Patra** | Project Coordination & Architecture / ML Pipeline | [GitHub](https://github.com/Rittik047) |
-| *[Team Member 2]* | *[Literature Review / Clinical Applications]* | *[Email/GitHub]* |
-| *[Team Member 3]* | *[Model Evaluation / Slide Design]* | *[Email/GitHub]* |
+| **Fatima Rizvi** | Literature Review / Clinical Applications | *[Email/GitHub]* |
+| **Bhargavi Sarangapani** | Model Evaluation / Slide Design | *[Email/GitHub]* |
 
 ---
 
@@ -45,4 +46,3 @@ BMEN_6367_Presentation_Venus/
 │   ├── models/                 # Model evaluation scripts and benchmarks
 │   └── notebooks/              # Jupyter/Colab notebooks for figure generation
 └── requirements.txt            # Python dependencies (if code/notebooks are included)
-
