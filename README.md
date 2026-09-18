@@ -37,15 +37,18 @@ This repository serves as a centralized hub for:
 
 ```text
 BMEN_6367_Presentation_Venus/
-├── README.md                   # Project overview, directory layout, and team guidelines
-├── presentation/               # Slide decks, handouts, and presentation assets
-│   ├── slides/                 # .pptx, .pdf, or Keynote slide versions
-│   └── scripts/                # Speaker notes, timing breakdowns, and Q&A prep
-├── assets/                     # Visuals, diagrams, pipeline schematics, and figures
-│   ├── diagrams/               # Architecture diagrams and system schematics
-│   └── raw/                    # Original uncompressed figures and plots
-├── src/                        # (Optional) Code, notebooks, and model pipelines
-│   ├── data/                   # Sample datasets or preprocessing scripts
-│   ├── models/                 # Model evaluation scripts and benchmarks
-│   └── notebooks/              # Jupyter/Colab notebooks for figure generation
-└── requirements.txt            # Python dependencies (if code/notebooks are included)
+├── .DS_Store
+├── LICENSE
+├── Papers/
+│   ├── AI in Bioelectronics.pdf
+│   ├── AI in Bioinformatics.pdf
+│   └── AI in Biosensing.pdf
+├── Presentation/
+│   ├── UTD-Template-Presentation.pptx
+│   └── UTD_Light.pptx
+├── README.md
+└── Resources/
+    ├── Course Schedule V2.pdf
+    ├── Paper Presentation Evaluation.pdf
+    └── venus.jpg
+```
